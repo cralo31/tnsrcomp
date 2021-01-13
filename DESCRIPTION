@@ -1,0 +1,13 @@
+Package: tnsrcomp
+Type: Package
+Title: Uni-orthogonal Tensor Decomposition
+Version: 1.0
+Date: 2019-04-24
+Author: Jack Yutong Li and Ruoqing Zhu
+Maintainer: Jack Yutong Li <yutongli92@gmail.com>
+Description: One paragraph description of what the package does as one or more full sentences.
+License: GPL (>= 2)
+RoxygenNote: 6.1.0
+Imports: Rcpp (>= 0.12.18), irlba, pracma
+LinkingTo: Rcpp, RcppArmadillo, irlba, pracma
+
